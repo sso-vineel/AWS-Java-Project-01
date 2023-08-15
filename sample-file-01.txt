@@ -1,1 +1,1 @@
-Line 1 - This is a sample file
+This is modified line
